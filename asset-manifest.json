@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/your-chef.git/static/css/main.81c190fd.chunk.css",
+    "main.js": "/your-chef.git/static/js/main.04f95c3a.chunk.js",
+    "main.js.map": "/your-chef.git/static/js/main.04f95c3a.chunk.js.map",
+    "runtime-main.js": "/your-chef.git/static/js/runtime-main.f7f62343.js",
+    "runtime-main.js.map": "/your-chef.git/static/js/runtime-main.f7f62343.js.map",
+    "static/js/2.52a1c17c.chunk.js": "/your-chef.git/static/js/2.52a1c17c.chunk.js",
+    "static/js/2.52a1c17c.chunk.js.map": "/your-chef.git/static/js/2.52a1c17c.chunk.js.map",
+    "index.html": "/your-chef.git/index.html",
+    "precache-manifest.3df67eaaf6ccc9017c992a89cd35be8a.js": "/your-chef.git/precache-manifest.3df67eaaf6ccc9017c992a89cd35be8a.js",
+    "service-worker.js": "/your-chef.git/service-worker.js",
+    "static/css/main.81c190fd.chunk.css.map": "/your-chef.git/static/css/main.81c190fd.chunk.css.map",
+    "static/js/2.52a1c17c.chunk.js.LICENSE.txt": "/your-chef.git/static/js/2.52a1c17c.chunk.js.LICENSE.txt",
+    "static/media/burger-img.png": "/your-chef.git/static/media/burger-img.b8503d26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7f62343.js",
+    "static/js/2.52a1c17c.chunk.js",
+    "static/css/main.81c190fd.chunk.css",
+    "static/js/main.04f95c3a.chunk.js"
+  ]
+}
