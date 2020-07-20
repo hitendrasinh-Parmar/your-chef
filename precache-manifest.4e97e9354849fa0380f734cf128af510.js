@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a2a31602950d6b550be4191678f2ef2",
+    "revision": "2d740336a95d78739d6e79ebd3cf1249",
     "url": "/your-chef/index.html"
   },
   {
-    "revision": "1d439fbc083c5ed6ec0b",
-    "url": "/your-chef/static/css/main.81c190fd.chunk.css"
+    "revision": "fabc921ce5bca5493f04",
+    "url": "/your-chef/static/css/main.531752d7.chunk.css"
   },
   {
-    "revision": "314b78ec2bbee30cdc81",
-    "url": "/your-chef/static/js/2.52a1c17c.chunk.js"
+    "revision": "5396317d75be0853e895",
+    "url": "/your-chef/static/js/2.6763ed9c.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/your-chef/static/js/2.52a1c17c.chunk.js.LICENSE.txt"
+    "url": "/your-chef/static/js/2.6763ed9c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1d439fbc083c5ed6ec0b",
-    "url": "/your-chef/static/js/main.3ec06687.chunk.js"
+    "revision": "fabc921ce5bca5493f04",
+    "url": "/your-chef/static/js/main.99b6577f.chunk.js"
   },
   {
     "revision": "18b895498a971a1d8760",
