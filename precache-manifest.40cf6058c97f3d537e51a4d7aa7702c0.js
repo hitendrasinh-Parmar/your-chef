@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "197b3b4693e156514bda99533ff18049",
+    "revision": "4abf613b066052f1246c12c7ffc07f8c",
     "url": "/your-chef/index.html"
   },
   {
-    "revision": "e99e4599ea07c7f65da7",
+    "revision": "4af9d2b40981286b9636",
     "url": "/your-chef/static/css/main.dddf3bc9.chunk.css"
   },
   {
-    "revision": "8df72a7762a4312eebbd",
-    "url": "/your-chef/static/js/2.e8d9429e.chunk.js"
+    "revision": "c97b04c756521c6c8b25",
+    "url": "/your-chef/static/js/2.d4693c72.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/your-chef/static/js/2.e8d9429e.chunk.js.LICENSE.txt"
+    "url": "/your-chef/static/js/2.d4693c72.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e99e4599ea07c7f65da7",
-    "url": "/your-chef/static/js/main.f66ed017.chunk.js"
+    "revision": "4af9d2b40981286b9636",
+    "url": "/your-chef/static/js/main.af34139a.chunk.js"
   },
   {
     "revision": "18b895498a971a1d8760",
